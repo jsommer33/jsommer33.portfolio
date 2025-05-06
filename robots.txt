@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://jsommer33.github.io/jsommer33.portfolio/sitemap.xml
